@@ -1,0 +1,9 @@
+.ContentsViewr{
+    width: 100%;
+    height: 80%;
+    border: 1.5px solid rgb(180, 180, 180);
+}
+
+.MuiBox-root-116{
+    overflow: scroll;
+}

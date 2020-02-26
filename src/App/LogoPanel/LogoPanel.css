@@ -1,0 +1,9 @@
+/*로고_좌측영역*/
+.LogoPanel{
+    width: 80px;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 1rem;;
+    background-size: 50%;
+  }

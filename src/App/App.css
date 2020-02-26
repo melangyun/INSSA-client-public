@@ -1,0 +1,15 @@
+.contentBox{
+  background-color: rgb(245,245,245);
+  height: 75%;
+  width: 70%;
+  position: relative;
+}
+
+.contentBox > div {
+  display: block;
+  float: left;
+}
+
+.contentBox > div > *{
+  clear: both;
+}
